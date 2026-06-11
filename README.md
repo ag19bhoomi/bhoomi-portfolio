@@ -1,13 +1,17 @@
-# Bhoomi Agarwal Portfolio
+# Bhoomi Agrawal Portfolio
 
 A modern and responsive personal portfolio website built to showcase my projects, technical skills, achievements, and experience as an aspiring Software Engineer.
+
+### Live Website
+
+https://bhoomi-portfolio-pi.vercel.app
 
 ## Features
 
 * Modern dark-themed UI
-* Responsive design
-* Featured projects section
-* About me section
+* Fully responsive design
+* Featured projects showcase
+* About Me section
 * Resume download
 * Quick access to GitHub, LinkedIn, LeetCode, and Email
 
@@ -16,14 +20,8 @@ A modern and responsive personal portfolio website built to showcase my projects
 * React.js
 * Vite
 * Tailwind CSS
+* Framer Motion
 * React Icons
-
-## Featured Projects
-
-* FoodGenie
-* Amazon Clone
-* EduScan
-* REWIRe
 
 ## Installation
 
@@ -39,12 +37,6 @@ npm run dev
 ```bash
 npm run build
 ```
-
-## Contact
-
-* GitHub: https://github.com/ag19bhoomi
-* LinkedIn: https://www.linkedin.com/in/bhoomi-agarwal-869a1428b/
-* LeetCode: https://leetcode.com/u/bhoomi1098/
 
 ---
 
