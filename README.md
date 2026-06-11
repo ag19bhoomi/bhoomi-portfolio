@@ -1,16 +1,51 @@
-# React + Vite
+# Bhoomi Agarwal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio website built to showcase my projects, technical skills, achievements, and experience as an aspiring Software Engineer.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Modern dark-themed UI
+* Responsive design
+* Featured projects section
+* About me section
+* Resume download
+* Quick access to GitHub, LinkedIn, LeetCode, and Email
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React.js
+* Vite
+* Tailwind CSS
+* React Icons
 
-## Expanding the ESLint configuration
+## Featured Projects
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* FoodGenie
+* Amazon Clone
+* EduScan
+* REWIRe
+
+## Installation
+
+```bash
+git clone <repository-url>
+cd portfolio
+npm install
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+## Contact
+
+* GitHub: https://github.com/ag19bhoomi
+* LinkedIn: https://www.linkedin.com/in/bhoomi-agarwal-869a1428b/
+* LeetCode: https://leetcode.com/u/bhoomi1098/
+
+---
+
+Built with React, Tailwind CSS, and a passion for creating impactful digital experiences.
