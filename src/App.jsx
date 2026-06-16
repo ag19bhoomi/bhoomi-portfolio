@@ -7,7 +7,6 @@ import Contact from "./sections/Contact";
 function App() {
   return (
     <>
-      <Navbar />
       <Hero />
       <About />
       <Projects />
